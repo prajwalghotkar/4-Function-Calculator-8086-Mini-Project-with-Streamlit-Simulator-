@@ -1,4 +1,4 @@
-# 4-Function Calculator — 8086 Mini Project (with Streamlit Simulator)
+# 4-Function Calculator 8086 Mini Project (with Streamlit Simulator)
 
 Design, implement, and simulate a 4-function calculator (+, −, ×, ÷) in 8086
 assembly using **EMU8086**, with a **Streamlit** frontend that visualizes the
