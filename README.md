@@ -53,7 +53,7 @@ EMU8086 run.
 
 ### What the app gives you
 
-- **Calculator Simulator** — enter two numbers + pick an operation, see the exact
+- **🧮 Calculator Simulator** — enter two numbers + pick an operation, see the exact
   instruction-by-instruction register/flag trace (AX, BX, DX, CF, OF, ZF, SF) plus a
   DOS-console-style output preview and the final result.
 - **Report sections 1–9** — matches your submission's table of contents (Title, Aim &
