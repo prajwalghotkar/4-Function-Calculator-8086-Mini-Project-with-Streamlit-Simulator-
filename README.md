@@ -72,3 +72,11 @@ EMU8086 run.
   signed overflow (`OF`), carry (`CF`), sign (`SF`) and zero (`ZF`) flags, and
   truncate-toward-zero integer division — so its numbers will match what EMU8086
   itself shows.
+
+
+
+
+https://github.com/user-attachments/assets/a75b51d1-eda4-4394-b3c7-f6c5fdd9a070
+
+
+
